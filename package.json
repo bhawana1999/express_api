@@ -1,0 +1,23 @@
+{
+  "name": "aerogram",
+  "version": "1.0.0",
+  "description": "android_mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aerogram",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "express": "^4.16.4",
+    "moment": "^2.22.2",
+    "mysql": "^2.16.0",
+    "node-datetime": "^2.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
+
